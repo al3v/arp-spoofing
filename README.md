@@ -7,4 +7,5 @@ bettercap -iface <interface name>
 ```bash
 net.show
 ```
-![image](https://github.com/user-attachments/assets/8b61d59e-e90f-435b-914e-1de02ddaeb3e)
+![image](https://github.com/user-attachments/assets/3ce2f07d-14b0-4254-91fa-cb4df065831d)
+
