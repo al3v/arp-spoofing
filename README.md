@@ -25,7 +25,7 @@ Run hstshijack/hstshijack caplet:
 ```bash
 hstshijack/hstshijack
 ```
-Then on the target machine if you go a website uses https (go to google or google.ie and search linkedin, click the linkedin web page at the beginning):
+Then on the target machine if you go a website uses https (go to google.com and search linkedin, click the linkedin web page at the beginning):
 
 ![image](https://github.com/user-attachments/assets/df57bb4c-ce8d-48a6-be4f-60b797290fc6)
 
