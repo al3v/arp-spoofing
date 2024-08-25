@@ -30,3 +30,5 @@ Then on the target machine if you go a website uses https (go to google.com and 
 ![image](https://github.com/user-attachments/assets/df57bb4c-ce8d-48a6-be4f-60b797290fc6)
 
 
+PS: it will only work when the user uses non https search engine like google.ie
+
