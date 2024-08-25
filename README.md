@@ -32,3 +32,5 @@ Then on the target machine if you go a website uses https (go to google.com and 
 
 PS: it will only work when the user uses non https search engine like google.ie
 
+## For Bypassing HSTS:
+Put `hstshijack.cap` here: /usr/local/share/bettercap/caplets/hstshijack
